@@ -1,0 +1,36 @@
+.splitscreen{
+  display: flex;
+  height: 700 px;
+  margin-top: 0px;
+}
+.toppane{
+  width: 56%;
+  height: auto;
+  margin-top: 150px;
+  margin-left: 100px;
+  
+}
+.bottompane{
+  width: 50%;
+  height: 550px;
+  padding-top: 170px;
+  
+}
+#thamem
+{
+  margin-left: 250px;
+}
+.h1
+{
+  margin-left: 100px;
+  color: rgb(194, 106, 106);
+}
+.h2
+{
+  font-size:medium;
+  padding-top: 7rem;
+}
+.videoTd{
+  height: 73%;
+  width: 100%;
+}

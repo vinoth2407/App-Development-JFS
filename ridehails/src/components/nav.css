@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #dcdde1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pix{
+    margin-left: 60rem;
+}
+.rr{
+    margin-left: 23px;
+}
+.ll{
+    color: white;
+    padding-left: 16rem;
+}
+.ll1{
+    color: white;
+    padding-left: 13rem;
+    margin-left: -2rem;
+}
+.is{
+    width: 59px;
+    margin-left: 15px;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.ll3{
+    margin-left: 62rem;
+}
+h6{
+    color: aliceblue;
+    font-family: 'Courier New';
+}
+

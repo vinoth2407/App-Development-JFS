@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #26272b !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pix{
+    margin-left: 66rem;
+}
+.rr{
+    margin-left: 23px;
+}
+.ll{
+    color: white;
+    padding-left: 16rem;
+}
+.ll2{
+    color: white;
+    padding-left: 13rem;
+    margin-left: -9rem;
+}
+.ic{
+    width: 50px;
+    margin-left: 15px;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
